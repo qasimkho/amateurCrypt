@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moh</h1>
 <h3 align="center">A Frontend and solidity developer in the making.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<!--- ![Coder-image](https://raw.githubusercontent.com/amateurCrypt/amateurCrypt/main/image_processing20210906-6043-bb2lip.gif) --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amateurcrypt&label=Profile%20views&color=0e75b6&style=flat" alt="amateurcrypt" /> </p>
 
