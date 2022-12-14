@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **muhammad.qasim1@live.com**
 
-- ⚡ Fun fact **I am professionally a mechanical engineer.**
+- ⚡ Fun fact **I am professionally a mechanical engineer who fell in love with blockchain tech 5 years ago.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
